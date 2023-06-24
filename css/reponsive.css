@@ -562,6 +562,12 @@
   .voyager {
     left: 0%;
   }
+  .banner-title {
+    top: 40%;
+    transform: translateY(-50%);
+    transform: translateX(12%);
+    color: white;
+  }
 }
 @media (max-width: 450px) {
   #header {
@@ -645,5 +651,11 @@
   }
   .voyager {
     left: 0%;
+  }
+  .banner-title {
+    top: 40%;
+    transform: translateY(-50%);
+    transform: translateX(12%);
+    color: white;
   }
 }
